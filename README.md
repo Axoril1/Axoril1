@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00C9FF&center=true&vCenter=true&width=650&lines=CUET+CSE+Undergrad;Competitive+Programming+⚔️+%2B+Machine+Learning+🤖;Clean+Code+%7C+Problem+Solving+%7C+Always+Learning+🌱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=00C9FF&center=true&vCenter=true&width=650&lines=CUET+CSE+Undergrad;Competitive+Programming+⚔️+%2B+MERN+Stack;Clean+Code+%7C+Problem+Solving+%7C+Always+Learning+🌱)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Axoril1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/Axoril1?label=Followers&style=flat&color=00C9FF" alt="followers badge"/>
@@ -11,10 +11,11 @@
 
 About Me
 - 🎓 Undergraduate student at CUET CSE  
-- 🌱 Currently learning: Machine Learning and Data Structures & Algorithms  
-- 💡 Interests: Competitive Programming, ML, Systems, and clean code  
+- 🌱 Currently learning: MERN Stack and Data Structures & Algorithms  
+- 💡 Interests: Competitive Programming, MERN Stack, Systems, and clean code  
+- 🤖 Automation: building chatbots and Telegram bots  
 - 📫 Reach me: munzeer.runi@gmail.com  
-- ⚡ Fun fact: My ML models overfit; my sleep schedule underfits.
+- ⚡ Fun fact: My code sometimes overfits deadlines; my sleep schedule underfits expectations.
 
 <br clear="right"/>
 
@@ -42,7 +43,7 @@ About Me
 
 <h3 align="left">Tech Stack</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,flutter,dart,html,css,git,github,vscode" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,flutter,dart,html,css,js,git,github,vscode" alt="tech stack"/>
 </p>
 
 <h3 align="left">GitHub Stats</h3>
@@ -65,14 +66,5 @@ About Me
   <img src="https://streak-stats.demolab.com?user=Axoril1&hide_border=true" alt="GitHub streak"/>
 </picture>
 </div>
-
-<h3 align="left">Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Axoril1&theme=onedark&no-frame=true&no-bg=true&margin-w=6" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axoril1&theme=github-compact&hide_border=true&area=true" alt="activity graph"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:92FE9D,100:00C9FF" width="100%" alt="footer wave"/>
