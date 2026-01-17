@@ -26,18 +26,13 @@
 ## 💬 Quote of the Moment
 
 <div align="center">
-  
-  <!-- QUOTE:START -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1500&color=92FE9D&center=true&vCenter=true&width=800&height=60&lines=Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1500&color=92FE9D&center=true&vCenter=true&width=800&height=60&lines=Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds+%F0%9F%92%BB;Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.+-+Cory+House+%F0%9F%98%82;Simplicity+is+the+soul+of+efficiency.+-+Austin+Freeman+%E2%9C%A8;First%2C+solve+the+problem.+Then%2C+write+the+code.+-+John+Johnson+%F0%9F%A4%94;Make+it+work%2C+make+it+right%2C+make+it+fast.+-+Kent+Beck+%F0%9F%8F%83;Clean+code+always+looks+like+it+was+written+by+someone+who+cares.+-+Robert+C.+Martin+%F0%9F%A7%B9;Programming+is+thinking%2C+not+typing.+-+Casey+Patton+%F0%9F%A7%A0;Software+is+a+great+combination+between+artistry+and+engineering.+-+Bill+Gates+%F0%9F%8E%A8;The+only+way+to+go+fast%2C+is+to+go+well.+-+Robert+C.+Martin+%E2%9A%A1;Java+is+to+JavaScript+what+car+is+to+Carpet.+-+Chris+Heilmann+%F0%9F%98%B5;Any+fool+can+write+code+that+a+computer+can+understand.+-+Martin+Fowler+%F0%9F%8E%93;Experience+is+the+name+everyone+gives+to+their+mistakes.+-+Oscar+Wilde+%F0%9F%98%85;Before+software+can+be+reusable+it+first+has+to+be+usable.+-+Ralph+Johnson+%F0%9F%A4%9D;Deleted+code+is+debugged+code.+-+Jeff+Sickel+%F0%9F%97%91%EF%B8%8F;Optimism+is+an+occupational+hazard+of+programming.+-+Kent+Beck+%F0%9F%98%8A;Fix+the+cause%2C+not+the+symptom.+-+Steve+McConnell+%F0%9F%94%A7;Code+never+lies%2C+comments+sometimes+do.+-+Ron+Jeffries+%F0%9F%A4%AB;The+best+error+message+is+the+one+that+never+shows+up.+-+Thomas+Fuchs+%F0%9F%8E%89;Don't+comment+bad+code+-+rewrite+it.+-+Brian+Kernighan+%E2%9C%8D%EF%B8%8F;It's+not+a+bug%3B+it's+an+undocumented+feature.+-+Anonymous+%F0%9F%A4%B7;Premature+optimization+is+the+root+of+all+evil.+-+Donald+Knuth+%F0%9F%98%88;The+computer+was+born+to+solve+problems+that+did+not+exist+before.+-+Bill+Gates+%F0%9F%92%A1;Computers+are+good+at+following+instructions%2C+not+reading+minds.+-+Donald+Knuth+%F0%9F%A4%96;Simplicity+is+the+ultimate+sophistication.+-+Leonardo+da+Vinci+%F0%9F%8C%B8;It+works+on+my+machine.+-+Anonymous+%F0%9F%92%BB;Programming+is+the+art+of+algorithm+design+and+the+craft+of+debugging.+-+Ellen+Ullman+%F0%9F%96%8C%EF%B8%8F;Confusion+is+part+of+programming.+-+Felienne+Hermans+%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB;If+at+first+you+don't+succeed%2C+call+it+version+1.0.+-+Anonymous+%F0%9F%9A%80;Real+programmers+count+from+0.+-+Anonymous+0%EF%B8%8F%E2%83%A3;Code+is+poetry.+-+WordPress+%F0%9F%93%9D" alt="Typing SVG" />
   </a>
-  <!-- QUOTE:END -->
   
-  <br><br>
+  <br/><br/>
   
-  <!-- GIF:START -->
-  <img src="https://media.tenor.com/Xp5lWKXz8tEAAAAC/computer-cat.gif" alt="coding cat" width="120"/>
-  <!-- GIF:END -->
+  <img src="https://media.tenor.com/tMludDJPt2UAAAAC/mochi-peach.gif" alt="cute mochi" width="80"/>
   
 </div>
 
