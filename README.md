@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding illustration" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## About Me
+### About Me
 
 - 🎓 **Education:** Undergraduate at CUET, Department of CSE  
 - 🌱 **Currently Learning:** MERN Stack & Data Structures and Algorithms  
@@ -30,11 +30,9 @@
 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1500&color=92FE9D&center=true&vCenter=true&width=800&height=60&lines=Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds;Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.+-+Cory+House;Simplicity+is+the+soul+of+efficiency.+-+Austin+Freeman;First,+solve+the+problem.+Then,+write+the+code.+-+John+Johnson;Make+it+work,+make+it+right,+make+it+fast.+-+Kent+Beck;Clean+code+always+looks+like+it+was+written+by+someone+who+cares.+-+Robert+C.+Martin;Programming+is+thinking,+not+typing.+-+Casey+Patton;Software+is+a+great+combination+between+artistry+and+engineering.+-+Bill+Gates;The+only+way+to+go+fast,+is+to+go+well.+-+Robert+C.+Martin;Java+is+to+JavaScript+what+car+is+to+Carpet.+-+Chris+Heilmann;Any+fool+can+write+code+that+a+computer+can+understand.+-+Martin+Fowler;Experience+is+the+name+everyone+gives+to+their+mistakes.+-+Oscar+Wilde;Before+software+can+be+reusable+it+first+has+to+be+usable.+-+Ralph+Johnson;Deleted+code+is+debugged+code.+-+Jeff+Sickel;Optimism+is+an+occupational+hazard+of+programming.+-+Kent+Beck;Fix+the+cause%2C+not+the+symptom.+-+Steve+McConnell;Code+never+lies%2C+comments+sometimes+do.+-+Ron+Jeffries;The+best+error+message+is+the+one+that+never+shows+up.+-+Thomas+Fuchs;Don%27t+comment+bad+code+-+rewrite+it.+-+Brian+Kernighan;It%E2%80%99s+not+a+bug%3B+it%E2%80%99s+an+undocumented+feature.+-+Anonymous;Premature+optimization+is+the+root+of+all+evil.+-+Donald+Knuth;The+computer+was+born+to+solve+problems+that+did+not+exist+before.+-+Bill+Gates;Computers+are+good+at+following+instructions%2C+not+reading+minds.+-+Donald+Knuth;Simplicity+is+the+ultimate+sophistication.+-+Leonardo+da+Vinci;It+works+on+my+machine.+-+Anonymous;Programming+is+the+art+of+algorithm+design+and+the+craft+of+debugging.+-+Ellen+Ullman;Confusion+is+part+of+programming.+-+Felienne+Hermans;If+at+first+you+don%27t+succeed%2C+call+it+version+1.0.+-+Anonymous;Real+programmers+count+from+0.+-+Anonymous;Code+is+poetry.+-+WordPress" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1500&color=92FE9D&center=true&vCenter=true&width=1000&height=60&lines=Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds;Code+is+like+humor.+When+you+have+to+explain+it,+it%27s+bad.+-+Cory+House;Simplicity+is+the+soul+of+efficiency.+-+Austin+Freeman;First,+solve+the+problem.+Then,+write+the+code.+-+John+Johnson;Make+it+work,+make+it+right,+make+it+fast.+-+Kent+Beck;Clean+code+always+looks+like+it+was+written+by+someone+who+cares.+-+Robert+C.+Martin;Programming+is+thinking,+not+typing.+-+Casey+Patton;Software+is+a+great+combination+between+artistry+and+engineering.+-+Bill+Gates;The+only+way+to+go+fast+is+to+go+well.+-+Robert+C.+Martin;Java+is+to+JavaScript+what+car+is+to+carpet.+-+Chris+Heilmann;Any+fool+can+write+code+that+a+computer+can+understand.+-+Martin+Fowler;Experience+is+the+name+everyone+gives+to+their+mistakes.+-+Oscar+Wilde;Before+software+can+be+reusable,+it+first+has+to+be+usable.+-+Ralph+Johnson;Deleted+code+is+debugged+code.+-+Jeff+Sickel;Optimism+is+an+occupational+hazard+of+programming.+-+Kent+Beck;Fix+the+cause,+not+the+symptom.+-+Steve+McConnell;Code+never+lies,+comments+sometimes+do.+-+Ron+Jeffries;The+best+error+message+is+the+one+that+never+shows+up.+-+Thomas+Fuchs;Don%27t+comment+bad+code+-+rewrite+it.+-+Brian+Kernighan;Premature+optimization+is+the+root+of+all+evil.+-+Donald+Knuth;Computers+are+good+at+following+instructions,+not+reading+minds.+-+Donald+Knuth;Simplicity+is+the+ultimate+sophistication.+-+Leonardo+da+Vinci;It+works+on+my+machine.+-+Anonymous;Programming+is+the+art+of+algorithm+design+and+the+craft+of+debugging.+-+Ellen+Ullman;Confusion+is+part+of+programming.+-+Felienne+Hermans;If+at+first+you+don%27t+succeed,+call+it+version+1.0.+-+Anonymous;Real+programmers+count+from+0.+-+Anonymous;Code+is+poetry.+-+WordPress" alt="Typing SVG" />
   </a>
 </div>
-
----
 
 ## Connect with Me
 
@@ -76,4 +74,3 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:92FE9D,100:00C9FF" width="100%" alt="footer"/>
-
