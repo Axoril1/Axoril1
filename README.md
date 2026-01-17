@@ -25,15 +25,13 @@
 
 ## 💬 Quote of the Moment
 
+<!-- 
+  Updated: pause=1500 (1.5 seconds gap between quotes)
+-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1500&color=92FE9D&center=true&vCenter=true&width=800&height=60&lines=Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds+%F0%9F%92%BB;Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.+-+Cory+House+%F0%9F%98%82;Simplicity+is+the+soul+of+efficiency.+-+Austin+Freeman+%E2%9C%A8;First%2C+solve+the+problem.+Then%2C+write+the+code.+-+John+Johnson+%F0%9F%A4%94;Make+it+work%2C+make+it+right%2C+make+it+fast.+-+Kent+Beck+%F0%9F%8F%83;Clean+code+always+looks+like+it+was+written+by+someone+who+cares.+-+Robert+C.+Martin+%F0%9F%A7%B9;Programming+is+thinking%2C+not+typing.+-+Casey+Patton+%F0%9F%A7%A0;Software+is+a+great+combination+between+artistry+and+engineering.+-+Bill+Gates+%F0%9F%8E%A8;The+only+way+to+go+fast%2C+is+to+go+well.+-+Robert+C.+Martin+%E2%9A%A1;Java+is+to+JavaScript+what+car+is+to+Carpet.+-+Chris+Heilmann+%F0%9F%98%B5;Any+fool+can+write+code+that+a+computer+can+understand.+-+Martin+Fowler+%F0%9F%8E%93;Experience+is+the+name+everyone+gives+to+their+mistakes.+-+Oscar+Wilde+%F0%9F%98%85;Before+software+can+be+reusable+it+first+has+to+be+usable.+-+Ralph+Johnson+%F0%9F%A4%9D;Deleted+code+is+debugged+code.+-+Jeff+Sickel+%F0%9F%97%91%EF%B8%8F;Optimism+is+an+occupational+hazard+of+programming.+-+Kent+Beck+%F0%9F%98%8A;Fix+the+cause%2C+not+the+symptom.+-+Steve+McConnell+%F0%9F%94%A7;Code+never+lies%2C+comments+sometimes+do.+-+Ron+Jeffries+%F0%9F%A4%AB;The+best+error+message+is+the+one+that+never+shows+up.+-+Thomas+Fuchs+%F0%9F%8E%89;Don't+comment+bad+code+-+rewrite+it.+-+Brian+Kernighan+%E2%9C%8D%EF%B8%8F;It's+not+a+bug%3B+it's+an+undocumented+feature.+-+Anonymous+%F0%9F%A4%B7;Premature+optimization+is+the+root+of+all+evil.+-+Donald+Knuth+%F0%9F%98%88;The+computer+was+born+to+solve+problems+that+did+not+exist+before.+-+Bill+Gates+%F0%9F%92%A1;Computers+are+good+at+following+instructions%2C+not+reading+minds.+-+Donald+Knuth+%F0%9F%A4%96;Simplicity+is+the+ultimate+sophistication.+-+Leonardo+da+Vinci+%F0%9F%8C%B8;It+works+on+my+machine.+-+Anonymous+%F0%9F%92%BB;Programming+is+the+art+of+algorithm+design+and+the+craft+of+debugging.+-+Ellen+Ullman+%F0%9F%96%8C%EF%B8%8F;Confusion+is+part+of+programming.+-+Felienne+Hermans+%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB;If+at+first+you+don't+succeed%2C+call+it+version+1.0.+-+Anonymous+%F0%9F%9A%80;Real+programmers+count+from+0.+-+Anonymous+0%EF%B8%8F%E2%83%A3;Code+is+poetry.+-+WordPress+%F0%9F%93%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1500&color=92FE9D&center=true&vCenter=true&width=800&height=60&lines=Talk+is+cheap.+Show+me+the+code.+-+Linus+Torvalds;Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.+-+Cory+House;Simplicity+is+the+soul+of+efficiency.+-+Austin+Freeman;First,+solve+the+problem.+Then,+write+the+code.+-+John+Johnson;Make+it+work,+make+it+right,+make+it+fast.+-+Kent+Beck;Clean+code+always+looks+like+it+was+written+by+someone+who+cares.+-+Robert+C.+Martin;Programming+is+thinking,+not+typing.+-+Casey+Patton;Software+is+a+great+combination+between+artistry+and+engineering.+-+Bill+Gates;The+only+way+to+go+fast,+is+to+go+well.+-+Robert+C.+Martin;Java+is+to+JavaScript+what+car+is+to+Carpet.+-+Chris+Heilmann;Any+fool+can+write+code+that+a+computer+can+understand.+-+Martin+Fowler;Experience+is+the+name+everyone+gives+to+their+mistakes.+-+Oscar+Wilde;Before+software+can+be+reusable+it+first+has+to+be+usable.+-+Ralph+Johnson;Deleted+code+is+debugged+code.+-+Jeff+Sickel;Optimism+is+an+occupational+hazard+of+programming.+-+Kent+Beck;Fix+the+cause%2C+not+the+symptom.+-+Steve+McConnell;Code+never+lies%2C+comments+sometimes+do.+-+Ron+Jeffries;The+best+error+message+is+the+one+that+never+shows+up.+-+Thomas+Fuchs;Don%27t+comment+bad+code+-+rewrite+it.+-+Brian+Kernighan;It%E2%80%99s+not+a+bug%3B+it%E2%80%99s+an+undocumented+feature.+-+Anonymous;Premature+optimization+is+the+root+of+all+evil.+-+Donald+Knuth;The+computer+was+born+to+solve+problems+that+did+not+exist+before.+-+Bill+Gates;Computers+are+good+at+following+instructions%2C+not+reading+minds.+-+Donald+Knuth;Simplicity+is+the+ultimate+sophistication.+-+Leonardo+da+Vinci;It+works+on+my+machine.+-+Anonymous;Programming+is+the+art+of+algorithm+design+and+the+craft+of+debugging.+-+Ellen+Ullman;Confusion+is+part+of+programming.+-+Felienne+Hermans;If+at+first+you+don%27t+succeed%2C+call+it+version+1.0.+-+Anonymous;Real+programmers+count+from+0.+-+Anonymous;Code+is+poetry.+-+WordPress" alt="Typing SVG" />
   </a>
-  
-  <br/><br/>
-  
-  <img src="https://media.tenor.com/tMludDJPt2UAAAAC/mochi-peach.gif" alt="cute mochi" width="80"/>
-  
 </div>
 
 ---
@@ -41,22 +39,27 @@
 ## Connect with Me
 
 <p align="left">
+  <!-- Gmail -->
   <a href="mailto:munzeer.runi@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/munzeer-mahamud-runi-5438392a7/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
+  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/Axoril" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
+  <!-- LeetCode -->
   <a href="https://leetcode.com/Runi-13/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" alt="LeetCode" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
+  <!-- Facebook -->
   <a href="https://www.facebook.com/munzeer.mahamud.runi" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40" width="40" />
   </a>
@@ -73,3 +76,4 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:92FE9D,100:00C9FF" width="100%" alt="footer"/>
+
