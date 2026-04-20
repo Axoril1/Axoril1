@@ -68,7 +68,13 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,react,tailwind,mongodb,html,css,flutter,dart,git,github,vscode,express" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,dart" alt="tech stack"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter" alt="tech stack"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tech stack"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,express" alt="tech stack"/>
 </p>
 
 ---
