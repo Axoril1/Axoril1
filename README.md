@@ -68,7 +68,7 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,react,tailwind,mongodb,html,css,flutter,dart,git,github,vscode" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,react,tailwind,mongodb,html,css,flutter,dart,git,github,vscode,express" alt="tech stack"/>
 </p>
 
 ---
