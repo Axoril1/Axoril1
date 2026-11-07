@@ -19,7 +19,7 @@
 
   <!-- Column 1: Total Contributions -->
   <g transform="translate(82, 0)">
-    <text x="0" y="78" class="stat-num">90</text>
+    <text x="0" y="78" class="stat-num">91</text>
     <text x="0" y="108" class="stat-label">Total Contributions</text>
     <text x="0" y="132" class="stat-range">Jan 02, 2024 - Present</text>
   </g>
