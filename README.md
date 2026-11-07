@@ -94,19 +94,33 @@ I'm Munzeer, a 3rd-year CSE student at **CUET**, Chittagong, who ended up starti
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="./profile-summary-card-output/radical/0-profile-details.svg" width="49%" alt="Profile details" />
-<img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/Axoril1/Axoril1/main/profile-summary-card-output/radical/0-profile-details.svg" width="49%" alt="Profile details" />
+<img src="https://raw.githubusercontent.com/Axoril1/Axoril1/main/profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub stats" />
 </p>
 
 <p align="center">
-<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most used languages" />
-<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+<img src="https://raw.githubusercontent.com/Axoril1/Axoril1/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most used languages" />
+<img src="https://raw.githubusercontent.com/Axoril1/Axoril1/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Axoril1&theme=dark&background=0d1117&ring=E11D48&fire=E11D48&currStreakLabel=E11D48&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E11D48&dates=8b949e&border=0d1117" alt="GitHub streak" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/Axoril1?style=for-the-badge&logo=github&color=E11D48&labelColor=0d1117" alt="GitHub followers" />
+</p>
+
+### 📅 Contribution Calendar
+
+<p align="center">
+<img src="https://ghchart.rshah.org/E11D48/Axoril1" alt="Contribution calendar" />
 </p>
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-<img src="./dist/github-contribution-grid-snake-red.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/Axoril1/Axoril1/main/dist/github-contribution-grid-snake-red.svg" alt="Contribution snake" />
 </p>
 
 ---
