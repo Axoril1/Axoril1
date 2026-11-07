@@ -111,18 +111,6 @@ I'm Munzeer, a 3rd-year CSE student at **CUET**, Chittagong, who ended up starti
 <img src="https://img.shields.io/github/followers/Axoril1?style=for-the-badge&logo=github&color=E11D48&labelColor=0d1117" alt="GitHub followers" />
 </p>
 
-### 📅 Contribution Calendar
-
-<p align="center">
-<img src="https://ghchart.rshah.org/E11D48/Axoril1" alt="Contribution calendar" />
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Axoril1/Axoril1/main/dist/github-contribution-grid-snake-red.svg" alt="Contribution snake" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
