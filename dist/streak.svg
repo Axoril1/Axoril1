@@ -19,7 +19,7 @@
 
   <!-- Column 1: Total Contributions -->
   <g transform="translate(82, 0)">
-    <text x="0" y="78" class="stat-num">308</text>
+    <text x="0" y="78" class="stat-num">90</text>
     <text x="0" y="108" class="stat-label">Total Contributions</text>
     <text x="0" y="132" class="stat-range">Jan 02, 2024 - Present</text>
   </g>
@@ -37,8 +37,8 @@
 
   <!-- Column 3: Longest Streak -->
   <g transform="translate(412, 0)">
-    <text x="0" y="78" class="stat-num">4</text>
+    <text x="0" y="78" class="stat-num">3</text>
     <text x="0" y="108" class="stat-label">Longest Streak</text>
-    <text x="0" y="132" class="stat-range">Jan 17 - Jan 20</text>
+    <text x="0" y="132" class="stat-range">Aug 14 - Aug 16</text>
   </g>
 </svg>
