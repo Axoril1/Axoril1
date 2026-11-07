@@ -24,12 +24,23 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-red.svg?color_snake=ff2d55&color_dots=161b22,5c0a1a,8b0f26,c4122f,ff2d55&color_dot_border=0d1117
 
-      - name: Commit snake
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate streak stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 .github/scripts/generate-streak.py "${{ github.repository_owner }}" "dist/streak.svg"
+
+      - name: Commit dist files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist
-          git diff --cached --quiet || git commit -m "Update contribution snake"
+          git add dist/
+          git diff --cached --quiet || git commit -m "Update contribution snake and streak stats"
           git pull --rebase origin main
           git push origin HEAD:main
 
@@ -39,10 +50,15 @@ jobs:
     needs: snake
     if: always()
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
       - name: Generate stats cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release/v4
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
           THEME: "radical"
