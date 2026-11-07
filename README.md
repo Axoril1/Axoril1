@@ -103,14 +103,10 @@ I'm Munzeer, a 3rd-year CSE student at **CUET**, Chittagong, who ended up starti
 <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per language" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Axoril1&theme=dark&background=0d1117&ring=E11D48&fire=E11D48&currStreakLabel=E11D48&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E11D48&dates=8b949e&border=0d1117" alt="GitHub streak" />
-</p>
-
 ### 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Axoril1/Axoril1/output/github-contribution-grid-snake-red.svg" alt="Contribution snake" />
+<img src="./dist/github-contribution-grid-snake-red.svg" alt="Contribution snake" />
 </p>
 
 ---

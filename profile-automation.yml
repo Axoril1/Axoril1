@@ -1,0 +1,41 @@
+name: Profile Automation
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-red.svg?color_snake=ff2d55&color_dots=161b22,5c0a1a,8b0f26,c4122f,ff2d55&color_dot_border=0d1117
+
+      - name: Commit snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git diff --cached --quiet || git commit -m "Update contribution snake"
+          git push
+
+      - name: Generate stats cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release/v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: "radical"
