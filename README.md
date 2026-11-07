@@ -2,7 +2,7 @@
 
 # Assalamu Alaikum 👋, I'm Munzeer Mahamud Runi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E11D48&center=true&vCenter=true&width=640&lines=Competitive+Programmer;Full-Stack+Developer;ML+%26+AI+Enthusiast;Founder+%40+Xenzolve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E11D48&center=true&vCenter=true&width=640&lines=Competitive+Programmer;Full-Stack+Developer;ML+%26+AI+Enthusiast;Co-Founder+%40+Xenzolve" alt="Typing SVG" />
 
 **I solve problems, ship products, and teach machines to think.**
 
@@ -16,7 +16,7 @@
 
 I'm Munzeer, a 3rd-year CSE student at **CUET**, Chittagong, who ended up starting a company, doing research, and competing in programming contests, mostly by chasing whatever problem seemed most interesting at the time.
 
-- 🏢 Founder of **[Xenzolve](https://www.xenzolve.com)**, a software agency building web, automation, and AI workflow solutions
+- 🏢 Co-Founder of **[Xenzolve](https://www.xenzolve.com)**, a software agency building web, automation, and AI workflow solutions
 - 🌱 Currently learning **Machine Learning, Deep Learning & LLM Applications**
 - 💬 Ask me about **Competitive Programming, Full-Stack Development, AI & Machine Learning**
 - 📍 Chattogram, Bangladesh
