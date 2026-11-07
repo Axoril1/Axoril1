@@ -11,9 +11,9 @@ permissions:
   contents: write
 
 jobs:
-  update:
+  snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -30,8 +30,15 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add dist
           git diff --cached --quiet || git commit -m "Update contribution snake"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
 
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    needs: snake
+    if: always()
+    steps:
       - name: Generate stats cards
         uses: vn7n24fzkq/github-profile-summary-cards@release/v4
         env:
